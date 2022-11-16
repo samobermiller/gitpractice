@@ -1,1 +1,1 @@
-making documents is fun. editing documents is hard.
+making documents is fun. editing documents for a merge conflict is hard.
